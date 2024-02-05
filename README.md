@@ -2,6 +2,9 @@
 
 This project is a React-based web application that implements form validation using the Formik library along with Yup for schema validation. The form includes fields for user registration, including first name, last name, email, password, and confirm password.
 
+![image](https://github.com/gitikadhole/Form-Validation/assets/112191177/321a4272-96c8-4f38-9cab-6bd0edb2bc79)
+
+
 ## Technologies Used
 - React: A JavaScript library for building user interfaces.
 - Formik: A popular form library for React that simplifies form management.
